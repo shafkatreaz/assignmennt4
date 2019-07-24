@@ -28,8 +28,9 @@ body{
 }
 
 
-.wrapper h5{
+.wrapper h2{
 	text-align: center;
+	font-size: 12px;
 }
 
 .navbar li a{
